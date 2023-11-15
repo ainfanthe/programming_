@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMYRraL4tggjfIzu0n6s0JlenSHkuDteeudomoIT9Hakxs3qzK/JpaND5b7fqXefwIgAAHNax5x9GuCVdwj7aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ainfa\\Documents\\n00bz\\003\\003.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ainfa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ainfa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ainfa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ainfa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
